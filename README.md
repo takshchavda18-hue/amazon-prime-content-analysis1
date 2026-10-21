@@ -143,7 +143,7 @@ amazon-prime-content-analysis1/
 
 ## 8. Team Contribution
 
-| Task                     | Member 1 (Harsh) | Member 2 |
+| Task                     | Member 1 (Harsh) | Member 2 (Taksh) |
 | ------------------------ | ---------------- | -------- |
 | Data cleaning            | Yes              | Review   |
 | Visualizations 1-4       | Yes              | -        |
