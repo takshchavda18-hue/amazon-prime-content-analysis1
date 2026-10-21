@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Raw data is downloaded from Kaggle by each user
+data/amazon_prime_titles.csv
